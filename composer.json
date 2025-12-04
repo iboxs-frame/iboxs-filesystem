@@ -24,13 +24,13 @@
         }
     },
     "require": {
-        "iboxs/framework": "^1.*|^2.*",
-        "league/flysystem": "^2.0|^3.0"
+        "iboxs/framework": "^1.0|^2.0",
+        "league/flysystem": "^3.0"
     },
     "require-dev": {
         "mikey179/vfsstream": "^1.6",
         "mockery/mockery": "^1.2",
-        "phpunit/phpunit": "^8.0"
+        "phpunit/phpunit": "*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
